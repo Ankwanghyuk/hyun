@@ -1,10 +1,4 @@
 hello world
 
 
-<<<<<<< HEAD
-end real end
-=======
-end
-
-hello real end
->>>>>>> 81144a2aadc2d8463eaedb91ec304c485c9a63d5
+real end
