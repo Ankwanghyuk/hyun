@@ -1,2 +1,8 @@
 hello world
+<<<<<<< HEAD
 hi hi zzzz
+=======
+hi hi
+
+gogo
+>>>>>>> 18ab26f23d0a51b10f695c26cfdf4917af573c7c
