@@ -1,16 +1,4 @@
 hello world
-<<<<<<< HEAD
-hi hi zzzz
-=======
-hi hi
-<<<<<<< .merge_file_a07088
-
-gogo
->>>>>>> 18ab26f23d0a51b10f695c26cfdf4917af573c7c
 
 
-
-nope change
-=======
- 
->>>>>>> .merge_file_a03384
+end
