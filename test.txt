@@ -1,6 +1,4 @@
 hello world
-<<<<<<< HEAD
-hi hi zzzz
-=======
-hi hi
- 
+
+
+end
